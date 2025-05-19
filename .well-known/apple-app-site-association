@@ -1,4 +1,13 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip",
+        "paths": [ "/mini-mate/sweeties-golfland" ]
+      }
+    ]
+  },
   "appclips": [
     {
       "appID": "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip",
