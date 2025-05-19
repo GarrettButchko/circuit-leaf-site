@@ -3,13 +3,19 @@
     "apps": [],
     "details": [
       {
-        "appID": "PCUSPZK2L4.net.circuitleaf.MiniMate",
-        "paths": [ "/mini-mate/sweeties-golfland" ]
+        "appID": "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip",
+        "paths": [
+          "/mini-mate/sweeties-golfland"
+        ]
       }
     ]
   },
-  "appclips": {
-    "apps": [ "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip" ]
-  }
+  "appclips": [
+    {
+      "appID": "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip",
+      "paths": [
+        "/mini-mate/sweeties-golfland"
+      ]
+    }
+  ]
 }
-
