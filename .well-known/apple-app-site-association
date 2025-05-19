@@ -1,5 +1,16 @@
 {
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PCUSPZK2L4.net.circuitleaf.MiniMate",
+        "paths": [ "*" ]
+      }
+    ]
+  },
   "appclips": {
-      "apps": [ "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip" ]
-    }
+    "apps": [
+      "PCUSPZK2L4.net.circuitleaf.MiniMate.Clip"
+    ]
+  }
 }
